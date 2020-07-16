@@ -236,6 +236,7 @@ def movie():            #查20个电影
     rows = selectMovie(recv)
     return jsonify(rows)
 '''
+常用接口
 def xxx
     from flask import request
     def get():
