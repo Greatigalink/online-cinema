@@ -1,2 +1,2 @@
 # online-cinema
-杀杀杀
+readme
